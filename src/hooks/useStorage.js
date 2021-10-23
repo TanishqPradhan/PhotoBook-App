@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+/* import { useState, useEffect } from "react";
 import {
   projectStorage,
   projectFirestore,
@@ -37,3 +37,4 @@ const useStorage = (file) => {
 };
 
 export default useStorage;
+ */
